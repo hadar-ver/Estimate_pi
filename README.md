@@ -21,4 +21,7 @@ we can also compute pi as folowing:
 
 As N get bigger- the estimation of π is better:
 
+![image](https://user-images.githubusercontent.com/71387302/227803161-965d4518-e2a9-441e-88cb-1d48adf0b9ff.png)
+
+
 
